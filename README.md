@@ -1,5 +1,10 @@
-# pip - The Python Package Installer
-pip - The Python Package Installer
+## Installation
+
+Install from pip
+
+```bash
+pip install fbmessenger
+```
 ==================================
 
 .. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
