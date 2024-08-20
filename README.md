@@ -11,13 +11,6 @@ pip install pip
  https://pypi.org/project/pip
    : PyPI - Python Version
 
-pip is the `package installer`_ for Python. You can use pip to install packages from the `Python Package Index`_ and other indexes.
-
-Please take a look at our documentation for how to install and use pip:
-
-* `Installation`_
-* `Usage`_
-
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
 
 If you use `environment.yml`, then Binder will use a Miniconda distribution
