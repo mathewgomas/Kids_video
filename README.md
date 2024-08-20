@@ -12,6 +12,7 @@ pip install pip
    : PyPI - Python Version
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/python-conda_pip/master?filepath=index.ipynb)
+For more information on environment configuration, see [Environment Configuration](https://mybinder.readthedocs.io/en/latest/using/config_files.html#environment-yml)
 
 If you use `environment.yml`, then Binder will use a Miniconda distribution
 to install your packages. However, you may still want to use `pip`. In
