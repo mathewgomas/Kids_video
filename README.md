@@ -5,21 +5,11 @@ Install from pip
 ```bash
 pip install pip
 ```
-
-
-.. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
-   :target: https://pypi.org/project/pip/
+ https://pypi.org/project/pip/
    : PyPI
 
-.. |python-versions| image:: https://img.shields.io/pypi/pyversions/pip
-   :target: https://pypi.org/project/pip
+ https://pypi.org/project/pip
    : PyPI - Python Version
-
-.. |docs-badge| image:: https://readthedocs.org/projects/pip/badge/?version=latest
-   :target: https://pip.pypa.io/en/latest
-   : Documentation
-
-|pypi-version| |python-versions| |docs-badge|
 
 pip is the `package installer`_ for Python. You can use pip to install packages from the `Python Package Index`_ and other indexes.
 
